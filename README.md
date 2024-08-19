@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/alemuyosef92109" target="blank"><img src="https://img.shields.io/twitter/follow/alemuyosef92109?logo=twitter&style=for-the-badge" alt="alemuyosef92109" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
-
 - 💬 Ask me about **MERN,Django,React native**
 
 - 📫 How to reach me **yosefalemu007@gmail.com**
