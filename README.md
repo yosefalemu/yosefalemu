@@ -65,16 +65,10 @@ Graduated with a comprehensive degree in Software Engineering, developing a soli
 
 ---
 
-### 📊 My Stats
+### 📈 My Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yosefalemu&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yosefalemu&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yosefalemu&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" /><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=yosefalemu&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /><br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yosefalemu&theme=radical" alt="Streak Stats" />
 </p>
 
