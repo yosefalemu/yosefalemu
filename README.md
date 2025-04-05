@@ -6,7 +6,7 @@
 </p>
 
 <p align="left"> 
-  Passionate about crafting scalable, innovative solutions and pushing the boundaries of technology. Based in 🌍 Addis Ababa, Ethiopia.
+  Passionate about crafting scalable, innovative solutions. Based in 🌍 Addis Ababa, Ethiopia.
 </p>
 
 ---
