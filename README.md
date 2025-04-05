@@ -1,6 +1,6 @@
 
-<h1 align="left">Hi 👋, I'm Yosef Alemu</h1>
-<h1 align="center">WEB FULL-STACK DEVELOPER AND DATA ANALIST</h1>
+<h1 align="left">Hi 👋, I'M YOSEF ALEMU</h1>
+<h1 align="center" >FULL-STACK DEVELOPER AND DATA ANALIST</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yosefalemu&label=Profile%20views&color=0e75b6&style=flat" alt="yosefalemu" /> </p>
 
 <p align="left"> <a href="https://twitter.com/alemuyosef92109" target="blank"><img src="https://img.shields.io/twitter/follow/alemuyosef92109?logo=twitter&style=for-the-badge" alt="alemuyosef92109" /></a> </p>
