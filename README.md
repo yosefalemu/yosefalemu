@@ -35,7 +35,7 @@
 <h3 align="left">Languages & Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,vite,redux,angular,cpp,java,js,ts,go,py,css,tailwind,materialui,git,dart,django,express,nodejs,npm,nestjs,graphql,firebase,mongodb,mysql,postgres,prisma,supabase,figma,github,stackoverflow,kubernetes,docker,androidstudio,linux,netlify,postman" />
+    <img src="https://skillicons.dev/icons?i=js,ts,java,python,react,nextjs,nodejs,mongodb,html,css,tailwind" />
   </a>
 </p>
 
