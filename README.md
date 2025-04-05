@@ -32,7 +32,7 @@
 
 ---
 
-<h3 align="left">Languages & Tools</h3>
+### 🛠️ Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,react,vite,redux,angular,cpp,java,js,ts,go,py,css,tailwind,materialui,git,dart,django,express,nodejs,npm,nestjs,graphql,firebase,mongodb,mysql,postgres,prisma,supabase,figma,github,stackoverflow,kubernetes,docker,androidstudio,linux,netlify,postman" />
@@ -57,7 +57,7 @@ Graduated with a comprehensive degree in Software Engineering, developing a soli
 
 ---
 
-### 🛠️ Projects
+### 📂 Projects
 **Hulucode – Full Stack Developer**  
 *09/2022 – 07/2024*  
 - Developed a full-stack application using modern technologies to solve real-world problems.  
