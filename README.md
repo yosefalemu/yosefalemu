@@ -11,7 +11,7 @@
 
 ---
 
-### 📬 Get in Touch
+### 🗓️ Get in Touch
 - 📧 **Email**: [yosefalemu007@gmail.com](mailto:yosefalemu007@gmail.com)  
 - 📞 **Phone**: +251952525503  
 - 🌍 **Location**: Addis Ababa, Ethiopia  
