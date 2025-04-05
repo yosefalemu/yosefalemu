@@ -24,7 +24,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,go,dart,py,r,nextjs,react,redux,css,tailwind,materialui,flutter,django,express,nodejs,nestjs,graphql,firebase,mongodb,mysql,postgres,prisma,supabase,github,kubernetes,docker,git,postman" />
   </a>
-  <img src="https://img.shields.io/badge/React_Native-%23000000?style=flat&logo=react&logoColor=%2361DAFB" alt="React Native" />
 </p>
 
 ---
@@ -77,11 +76,4 @@ Graduated with a comprehensive degree in Computer Engineering, building a strong
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yosefalemu&theme=radical" alt="Streak Stats" />
-</p>
-
----
-
-<p align="center"> 
-  "Code is like poetry; it’s all about finding the right rhythm."  
-  Let’s build something extraordinary together! 🚀
 </p>
