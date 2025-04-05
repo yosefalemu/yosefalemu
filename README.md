@@ -1,31 +1,62 @@
+<h1 align="left">Hi 👋, I'm Yosef Alemu</h1>
+<h1 align="center">Software Engineer | Full Stack Developer</h1>
 
-<h1 align="left">Hi 👋, I'M YOSEF ALEMU</h1>
-<h1 align="center" >FULL-STACK DEVELOPER AND DATA ANALIST</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yosefalemu&label=Profile%20views&color=0e75b6&style=flat" alt="yosefalemu" /> </p>
-
-<p align="left"> <a href="https://twitter.com/alemuyosef92109" target="blank"><img src="https://img.shields.io/twitter/follow/alemuyosef92109?logo=twitter&style=for-the-badge" alt="alemuyosef92109" /></a> </p>
-- Reach Me **yosefalemu007@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/alemuyosef92109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alemuyosef92109" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yosef-alemu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yosef-alemu" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/yosef-alemu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yosef-alemu" height="30" width="40" /></a>
-<a href="https://kaggle.com/yosefalemu6607" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yosefalemu6607" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/yosefalemu007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yosefalemu007" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/yosefalemu007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yosefalemu007" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yosefalemu007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yosefalemu007" height="30" width="40" /></a>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=yosefalemu&label=Profile%20Views&color=0e75b6&style=flat" alt="yosefalemu" /> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="center"> 
+  Passionate about crafting scalable solutions and pushing the boundaries of technology. Based in 🌍 Addis Ababa, Ethiopia.
+</p>
+
+---
+
+### 📬 Get in Touch
+- 📧 **Email**: [yosefalemu007@gmail.com](mailto:yosefalemu007@gmail.com)  
+- 📞 **Phone**: +251952525503  
+- 🌍 **Location**: Addis Ababa, Ethiopia  
+- 🔗 **[LinkedIn](https://linkedin.com/in/yosef-alemu)** | **[GitHub](https://github.com/yosefalemu)**  
+
+---
+
+<h3 align="left">Connect with Me</h3>
+<p align="left">
+  <a href="https://twitter.com/alemuyosef92109" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alemuyosef92109" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/yosef-alemu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yosef-alemu" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/yosef-alemu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yosef-alemu" height="30" width="40" /></a>
+  <a href="https://kaggle.com/yosefalemu6607" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yosefalemu6607" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/yosefalemu007" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yosefalemu007" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/yosefalemu007" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yosefalemu007" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/yosefalemu007" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yosefalemu007" height="30" width="40" /></a>
+</p>
+
+---
+
+<h3 align="left">Languages & Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,react,vite,redux,angular,cpp,java,js,ts,go,py,css,tailwind,materialui,git,dart,django,express,nodejs,npm,nestjs,graphql,firebase,mongodb,mysql,postgres,prisma,supabase,figma,github,stackoverflow,kubernetes,docker,androidstudio,linux,netlify,postman" />
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yosefalemu&show_icons=true&locale=en&layout=compact" alt="yosefalemu" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yosefalemu&show_icons=true&locale=en" alt="yosefalemu" /></p>
+### 📊 My Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yosefalemu&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yosefalemu&" alt="yosefalemu" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yosefalemu&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yosefalemu&theme=radical" alt="Streak Stats" />
+</p>
+
+---
+
+<p align="center"> 
+  "Code is like poetry; it’s all about finding the right rhythm."  
+  Let’s build something extraordinary together! 🚀
+</p>
