@@ -1,12 +1,12 @@
 <h1 align="left">Hi 👋, I'm Yosef Alemu</h1>
-<h1 align="center">Software Engineer | Full Stack Developer</h1>
+<h1 align="left">Software Engineer | Full Stack Developer</h1>
 
-<p align="center"> 
+<p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=yosefalemu&label=Profile%20Views&color=0e75b6&style=flat" alt="yosefalemu" /> 
 </p>
 
-<p align="center"> 
-  Passionate about crafting scalable solutions and pushing the boundaries of technology. Based in 🌍 Addis Ababa, Ethiopia.
+<p align="left"> 
+  Passionate about crafting scalable, innovative solutions and pushing the boundaries of technology. Based in 🌍 Addis Ababa, Ethiopia.
 </p>
 
 ---
@@ -19,49 +19,46 @@
 
 ---
 
-<h3 align="left">Connect with Me</h3>
-<p align="left">
-  <a href="https://twitter.com/alemuyosef92109" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alemuyosef92109" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/yosef-alemu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yosef-alemu" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/yosef-alemu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yosef-alemu" height="30" width="40" /></a>
-  <a href="https://kaggle.com/yosefalemu6607" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yosefalemu6607" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/yosefalemu007" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yosefalemu007" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/yosefalemu007" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yosefalemu007" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/yosefalemu007" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yosefalemu007" height="30" width="40" /></a>
-</p>
-
----
-
 ### 🛠️ Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,vite,redux,angular,cpp,java,js,ts,go,py,css,tailwind,materialui,git,dart,django,express,nodejs,npm,nestjs,graphql,firebase,mongodb,mysql,postgres,prisma,supabase,figma,github,stackoverflow,kubernetes,docker,androidstudio,linux,netlify,postman" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,go,dart,py,r,nextjs,react,redux,css,tailwind,materialui,flutter,reactnative,django,express,nodejs,nestjs,graphql,firebase,mongodb,mysql,postgres,prisma,supabase,github,kubernetes,docker,git,postman" />
   </a>
 </p>
 
 ---
 
 ### 🎓 Education
-**Software Engineer**  
+**Computer Engineer**  
 Addis Ababa Institute of Technology  
-Graduated with a comprehensive degree in Software Engineering, developing a solid foundation in software engineering principles and practices. Passionate about problem-solving and experienced in leadership roles.  
+Graduated with a comprehensive degree in Computer Engineering, building a strong foundation in software engineering principles and practices. Passionate about problem-solving and experienced in leadership roles.  
 *12/2019 – 06/2024, Addis Ababa, Ethiopia*
 
 ---
 
 ### 💼 Professional Experience
-**Software Engineer Intern – Eskalate Africa**  
-*06/2022 – 07/2023, Addis Ababa, Ethiopia*  
-- Led a web development team using Next.js, Redux Toolkit, and Agile practices.  
-- Collaborated on Hakim Hub to enhance patient-doctor-hospital connections.
+**Web Developer – A2SV**  
+*01/2025 – Present, Addis Ababa, Ethiopia*  
+- Developing web applications using Next.js, Redux Toolkit, and Agile methodologies to deliver efficient and scalable solutions.  
+- Collaborating with backend and product teams to streamline workflows and improve project outcomes.
+
+**Full Stack Developer – Convergence**  
+*07/2024 – 01/2025, Addis Ababa, Ethiopia*  
+- Built web applications using Next.js, Redux Toolkit, and Agile practices, ensuring robust and user-friendly solutions.  
+- Integrated Face-Terminal and turnstile door systems to enhance security and access control features.
+
+**Flutter Instructor – Abugida**  
+*08/2024 – 04/2025, Addis Ababa, Ethiopia*  
+- Instructed over 40 students in Flutter, guiding them in building real-world mobile applications.  
+- Empowered students to apply their skills in practical projects, fostering a hands-on learning environment.
 
 ---
 
 ### 📂 Projects
 **Hulucode – Full Stack Developer**  
 *09/2022 – 07/2024*  
-- Developed a full-stack application using modern technologies to solve real-world problems.  
-- Focused on scalable architecture and seamless user experience.
+- Developed a full-stack application using modern technologies to address real-world challenges.  
+- Focused on creating a scalable architecture and delivering a seamless user experience.
 
 ---
 
