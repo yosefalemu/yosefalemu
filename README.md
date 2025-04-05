@@ -22,8 +22,9 @@
 ### 🛠️ Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,go,dart,py,r,nextjs,react,redux,css,tailwind,materialui,flutter,reactnative,django,express,nodejs,nestjs,graphql,firebase,mongodb,mysql,postgres,prisma,supabase,github,kubernetes,docker,git,postman" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,go,dart,py,r,nextjs,react,redux,css,tailwind,materialui,flutter,django,express,nodejs,nestjs,graphql,firebase,mongodb,mysql,postgres,prisma,supabase,github,kubernetes,docker,git,postman" />
   </a>
+  <img src="https://img.shields.io/badge/React_Native-%23000000?style=flat&logo=react&logoColor=%2361DAFB" alt="React Native" />
 </p>
 
 ---
