@@ -41,6 +41,30 @@
 
 ---
 
+### 🎓 Education
+**Software Engineer**  
+Addis Ababa Institute of Technology  
+Graduated with a comprehensive degree in Software Engineering, developing a solid foundation in software engineering principles and practices. Passionate about problem-solving and experienced in leadership roles.  
+*12/2019 – 06/2024, Addis Ababa, Ethiopia*
+
+---
+
+### 💼 Professional Experience
+**Software Engineer Intern – Eskalate Africa**  
+*06/2022 – 07/2023, Addis Ababa, Ethiopia*  
+- Led a web development team using Next.js, Redux Toolkit, and Agile practices.  
+- Collaborated on Hakim Hub to enhance patient-doctor-hospital connections.
+
+---
+
+### 🛠️ Projects
+**Hulucode – Full Stack Developer**  
+*09/2022 – 07/2024*  
+- Developed a full-stack application using modern technologies to solve real-world problems.  
+- Focused on scalable architecture and seamless user experience.
+
+---
+
 ### 📊 My Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yosefalemu&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
