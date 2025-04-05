@@ -54,14 +54,6 @@ Graduated with a comprehensive degree in Computer Engineering, building a strong
 
 ---
 
-### 📂 Projects
-**Hulucode – Full Stack Developer**  
-*09/2022 – 07/2024*  
-- Developed a full-stack application using modern technologies to address real-world challenges.  
-- Focused on creating a scalable architecture and delivering a seamless user experience.
-
----
-
 ### 📈 My Stats
 <table align="center">
   <tr>
